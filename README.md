@@ -4,7 +4,7 @@ Automation that will have Amazon deliver all of your books to a specific device.
 
 ## Windows 11 setup
 
-1. Install **Node.js LTS** from https://nodejs.org and reopen PowerShell.
+1. Install **Node.js LTS** from https://nodejs.org, then close and open a new PowerShell window so the `node` and `npm` commands are available in PATH.
 2. In PowerShell, go to this project folder:
    ```powershell
    cd C:\path\to\KindleBulkDeliver
@@ -24,4 +24,4 @@ Automation that will have Amazon deliver all of your books to a specific device.
 
 ## Script file
 
-An empty `deliver-kindle.js` file is included in this repo. Paste your script into that file.
+An empty `deliver-kindle.js` file is included in this repo. Paste your existing Kindle delivery automation script into that file.
