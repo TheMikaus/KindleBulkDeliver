@@ -24,4 +24,4 @@ Automation that will have Amazon deliver all of your books to a specific device.
 
 ## Script file
 
-An empty `deliver-kindle.js` file is included in this repo. Paste your existing Kindle delivery automation script into that file.
+An empty `deliver-kindle.js` file is included in this repo. Paste your Kindle delivery automation script into that file (or create one there).
